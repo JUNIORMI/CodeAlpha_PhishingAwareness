@@ -68,7 +68,7 @@ Check out the video explanation of this project:
 If you’d like to collaborate or provide feedback, feel free to reach out:
 
 - GitHub: [JUNIORMI](https://github.com/JUNIORMI)
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/muhammad-mustapha-ibrahim-5abb9923a
 - Email: muhammad09065983488@gmail.com
 
 **NOTE:** This is an awareness training project and is not intended for malicious use. All examples are educational only.
